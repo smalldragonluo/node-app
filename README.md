@@ -1,23 +1,23 @@
-# node-app
+## node-app
 A Node.js app scaffold
 
-# Software requirements
+## Software requirements
 * Node.js v7.6.0 or higher for ES2015 and async function support.
 
-# command
-## start
+## command
+#### start
 * `npm start`
 
-## dev
+#### dev
 * `npm run dev`
 
-## build assets
+#### build assets
 * `npm run build`
 
-## unit test
+#### unit test
 * `npm run test`
 
-# Docs
+## Docs
 * [Koa](http://koajs.com/)
 * [koa-router](https://github.com/alexmingoia/koa-router/tree/master/)
 * [koa-session](https://www.npmjs.com/package/koa-session)
