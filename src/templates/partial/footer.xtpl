@@ -1,0 +1,15 @@
+<div class="footer container">
+  <p class="threat">
+    我将自己的生命投入到让世界更美好的行动中去<span class="author">—— 哲斯·沃索德</span>
+  </p>
+  <ul class="f-links">
+    <li style="margin-right: 10px;">
+      © 2016 <a href="/" target="_blank">smalldragonluo</a>
+    </li>
+    <li><a href="http://taobaofed.org/" target="_blank">FED</a></li>
+    <li class="muted">·</li>
+    <li><a href="http://blog.smalldragonluo.com/" target="_blank">大牛博客</a></li>
+    <li class="muted">·</li>
+    <li><a href="http://harvestmoon.cn/blog/" target="_blank">harvestmoon</a></li>
+  </ul>
+</div>
