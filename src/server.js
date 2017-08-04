@@ -1,6 +1,6 @@
 /**
  * @author 龙喜<xiaolong.lxl@alibaba-inc.com>
- * @description app.js
+ * @description app.js，生产环节请添加 Cluster https://nodejs.org/api/cluster.html#cluster_cluster
  */
 
 'use strict';
