@@ -2,7 +2,7 @@
 
 {{#block ("header")}}
   <title>smalldragonluo</title>
-  <link rel="stylesheet" href="/public/css/index.min.css">
+  <link rel="stylesheet" href="/static/css/index.min.css">
 {{/block}}
 
 {{#block ("content")}}

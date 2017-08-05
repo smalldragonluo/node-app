@@ -1,6 +1,6 @@
 /**
  * @author 龙喜<xiaolong.lxl@alibaba-inc.com>
- * @description app.js，生产环节请添加 Cluster https://nodejs.org/api/cluster.html#cluster_cluster
+ * @description app.js，生产环境请添加 Cluster https://nodejs.org/api/cluster.html#cluster_cluster
  */
 
 'use strict';
@@ -13,7 +13,7 @@ const router = require('./router');
 const session = require('koa-session');
 
 // static files, better use nginx instead
-app.use(koaStatic('.', {
+app.use(koaStatic(path.join(__dirname, '../public'), {
   maxage: 3600000
 }));
 
