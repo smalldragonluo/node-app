@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
-  <link rel="icon" href="/public/images/favicon.jpg" type="image/x-icon"/>
-  <link rel="stylesheet" href="/public/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/public/css/common.min.css">
+  <link rel="icon" href="/static/images/favicon.jpg" type="image/x-icon"/>
+  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/css/common.min.css">
   {{{block ("header")}}}
 </head>
 <body>
