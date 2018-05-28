@@ -23,5 +23,5 @@ if (process.env.NODE_ENV === 'local') {
 module.exports = async function(ctx, next) {
   ctx.logger = winston;
   ctx.render = renderer.renderXTPL.bind(renderer, ctx.response);
-  next();
+  await next();
 };
